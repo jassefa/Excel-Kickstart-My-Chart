@@ -35,7 +35,7 @@ Most noticeable - Theater, the most backed category, had a significant drop from
 
 # Statistical Analysis 
 
-![](/images/[](/images/)StatisticalAnalysis.jpg)
+![](/images/StatisticalAnalysis.jpg)
 
 
 

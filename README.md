@@ -17,7 +17,7 @@ Creating a graph to look at Year vs State was helpful in creating a visual for o
 
 # Spotlight VS State 
 
-![](/images/SpotlightVSState %20%.jpg)
+![](/images/SpotlightVSState.jpg)
 
 The # 1 deciding factor on success for any campaign seems to be dependent on whether they have a spotlight ad; staff pick did not seem to have a noticeable impact.
 

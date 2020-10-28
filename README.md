@@ -16,10 +16,9 @@ Creating a graph to look at Year vs State was helpful in creating a visual for o
 
 
 # Spotlight VS State 
+The # 1 deciding factor on success for any campaign seems to be whether they have a spotlight ad; staff pick did not seem to have a noticeable impact.
 
 ![](/images/SpotlightVSState.jpg)
-
-The # 1 deciding factor on success for any campaign seems to be whether they have a spotlight ad; staff pick did not seem to have a noticeable impact.
 
 
 # Category Vs State
@@ -30,12 +29,13 @@ Most noticeable - Theater, the most backed category, had a significant drop from
 ![](/images/CategoryVsState2.jpg)
 ![](/images/CategoryVsState3.jpg)
 
-
-
-
 # Date & State
 
+![](/images/Date&State.jpg)
+
 # Statistical Analysis 
+
+![](/images/)StatisticalAnalysis .jpg
 
 
 

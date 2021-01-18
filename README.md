@@ -1,5 +1,5 @@
 # Excel-Kickstart-My-Chart
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects to uncover any hidden trends.
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects to discover some trick for finding success.Weu will organize and analyze a database of 4,000 past projects to uncover any hidden trends.
 
 ![](/images/ks.jpg)
 
